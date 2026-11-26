@@ -128,9 +128,9 @@ int252-project/
 
 ## 👨‍💻 Developed By
 
-**Nishant Mangal**
+**Sarvgy Gupta**
 
-- 📧 mangalnishant60@gmail.com
+- 📧 er.sarvgygupta@gmail.com
 - 💻 Full Stack Developer
 - 🎓 B.Tech Computer Science Engineering
 
@@ -139,4 +139,4 @@ int252-project/
 ## 🔗 Project Links
 
 - 🌐 **Live Demo:** [https://ecocycle-sage.vercel.app/](https://ecocycle-sage.vercel.app/)
-- 💻 **GitHub Repository:** https://github.com/Nishantmangal01/INT252-ReactJS-Project-ECOCYCLE-
+- 💻 **GitHub Repository:** https://github.com/ersarvgygupta-stack/ecocycle-project-react
